@@ -4,7 +4,7 @@
 <edge COLOR="#b4b4b4"/>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1561687176452" FOLDED="true" HGAP="16" ID="ID_1184146066" MODIFIED="1584683907410" POSITION="right" TEXT="Neural Correlates of Consciousness (NCC)" VSHIFT="-34">
+<node COLOR="#0033ff" CREATED="1561687176452" FOLDED="true" HGAP="16" ID="ID_1184146066" MODIFIED="1584684455842" POSITION="right" TEXT="Neural Correlates of Consciousness (NCC)" VSHIFT="-34">
 <edge COLOR="#7aa3e5" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1561687176452" ID="ID_152253842" MODIFIED="1561998939674" TEXT="requisites">
